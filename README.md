@@ -6,6 +6,11 @@ It utilizes a fine-tuned **DeBERTa-V3** model, optimized with **ONNX Quantizatio
 
 ---
 
+## 🔗 Live Demo
+Experience the model in action here: **[Try the Live Demo](https://lexifast.kebapps.co/analyze/cefr_predictor)**
+
+---
+
 ## ✨ Key Features
 
 - **🎯 High Accuracy:** Advanced model based on `DeBERTa-V3-Small` architecture, fine-tuned using LoRA.
