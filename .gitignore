@@ -31,8 +31,6 @@ ENV/
 
 # Project Specific
 cefr_model/
-data/
-results/
 .ipynb_checkpoints/
 
 # OS
