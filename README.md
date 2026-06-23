@@ -112,6 +112,13 @@ The model analyzes complex sentence structures and vocabulary to categorize text
 - **B1/B2:** Independent User
 - **C1/C2:** Proficient User
 
+### 📊 Evaluation
+Below is the confusion matrix illustrating the model's performance across different CEFR levels:
+
+![Confusion Matrix](results/image.png)
+
+---
+
 ---
 
 ## 🤝 Contributing
